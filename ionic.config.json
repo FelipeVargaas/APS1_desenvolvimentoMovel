@@ -1,0 +1,7 @@
+{
+  "name": "APS_NOVO",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
